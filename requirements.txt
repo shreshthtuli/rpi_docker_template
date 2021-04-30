@@ -1,0 +1,4 @@
+requests
+minio
+Pillow
+boto3==1.10.9
